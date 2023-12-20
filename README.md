@@ -1,2 +1,1 @@
-# Proyecto_Git_Colaborativo
-Para aprendizaje de Git en Equipo
+# AMVICU linux.user@techie.com
